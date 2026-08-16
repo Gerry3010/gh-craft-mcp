@@ -15,7 +15,7 @@ fully as possible, bounded by a token-bound Craft user's own permissions.
 ## Install
 
 ```bash
-composer require gerry3010/craft-mcp
+composer require gerry3010/gh-craft-mcp
 php craft plugin/install mcp
 ```
 

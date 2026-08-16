@@ -1,5 +1,5 @@
 {
-    "name": "gerry3010/craft-mcp",
+    "name": "gerry3010/gh-craft-mcp",
     "description": "A Craft CMS 5 plugin that exposes an in-process MCP (Model Context Protocol) server so AI agents can control Craft as fully as possible.",
     "type": "craft-plugin",
     "license": "MIT",
@@ -13,8 +13,8 @@
         "agent"
     ],
     "support": {
-        "source": "https://github.com/Gerry3010/craft-mcp",
-        "issues": "https://github.com/Gerry3010/craft-mcp/issues"
+        "source": "https://github.com/Gerry3010/gh-craft-mcp",
+        "issues": "https://github.com/Gerry3010/gh-craft-mcp/issues"
     },
     "require": {
         "php": ">=8.2",
@@ -34,7 +34,7 @@
         "name": "Craft MCP",
         "class": "gerry3010\\mcp\\Plugin",
         "developer": "Gerald Hofbauer",
-        "documentationUrl": "https://github.com/Gerry3010/craft-mcp"
+        "documentationUrl": "https://github.com/Gerry3010/gh-craft-mcp"
     },
     "scripts": {
         "phpstan": "phpstan analyse --memory-limit=1G",
